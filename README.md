@@ -2,8 +2,8 @@
 
 Fluxo completo de autenticação de usuários utilizando **React**, **Firebase Auth**, **React Router Dom** e **Styled Components**, com base em um protótipo visual do Figma da DIO.
 
-🌐 **Deploy da aplicação:**  
-https://react-registration-login-user-home-home.vercel.app/
+# 🌐 **Link para conferir o projeto:**  
+> https://react-registration-login-user-home-home.vercel.app/
 
 ---
 
